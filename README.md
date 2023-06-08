@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I am ABHA SONI!
+
+
+- 🔭 I’m currently working on something cool
+- - 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate as Frontend Developer
+
+
 
 <!--
 **sonykikuma/sonykikuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
