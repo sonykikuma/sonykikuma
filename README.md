@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abha Soni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India who creates beautiful and responsive websites💻
+</h3>
 <!--<img align=“right” alt=“Coding” width=“200” src=“https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonykikuma&label=Profile%20views&color=0e75b6&style=flat" alt="sonykikuma" /> </p>
@@ -17,9 +18,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonykikuma&show_icons=true&locale=en&layout=compact" alt="sonykikuma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonykikuma&show_icons=true&locale=en" alt="sonykikuma" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonykikuma&show_icons=true&locale=en" alt="sonykikuma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonykikuma&" alt="sonykikuma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonykikuma&" alt="sonykikuma" /></p>-->
 
 
 
