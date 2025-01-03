@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abha Soni</h1>
-<h3 align="center">A passionate frontend developer from India who creates beautiful and responsive websites💻
+<h1 align="center">Hi 👋, I'm Abha </h1>
+<h3 align="center">A passionate MERN Stack Developer/Frontend Developer from India who creates beautiful and responsive websites💻
 </h3>
 <!--<img align=“right” alt=“Coding” width=“200” src=“https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 
@@ -28,8 +28,8 @@
 
 
 - 🔭 I’m currently working on something cool
-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate as Frontend Developer-->
+- - 🌱 I’m currently exploring new things in tech ...
+- 👯 I’m looking to collaborate as MERN Stack Developer/Frontend Developer-->
 
 
 
